@@ -1,0 +1,1 @@
+Este es solo el modulo de gamificación hecho en unity, el projecto está integrado en [el frontend](https://github.com/guillemtala/frontendTC2005B), y el bakend está corriendo en un servidor remoto pero se puede ver el codigo [aqui](https://github.com/Rodrikk834/backendTC2005B)
